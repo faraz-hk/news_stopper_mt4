@@ -1,6 +1,7 @@
 News Stopper EA to disable auto trading before and after news events.
 
 EA features :
+
   stop auto trading before and after news
   close orders before and after news
   close open orders with custom profit value
