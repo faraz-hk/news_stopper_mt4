@@ -15,3 +15,8 @@ EA features :
   source for the news events is now ForexFactory calendar
   you can now chose to only close orders that are directly effected by the news, for example if there is USD news, only orders and charts that one side of their symbol is USD will get close.
   Keyword specific news option
+
+
+
+Join my telegram channel for more :
+https://t.me/meta_coder
